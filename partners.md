@@ -1,7 +1,7 @@
 ---
-layout: partners
 title: Our Partners
-permalink: /partners/
+permalink: "/partners/"
+layout: partners
 ---
 
 <h2>What some of our partners have said</h2>
