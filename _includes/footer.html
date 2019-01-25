@@ -1,0 +1,39 @@
+<footer>
+        <div class="footer-top">
+            <div class="wrapper">
+                <div class="row rowpad-16">
+                    <div class="column-1-2">
+                        <p class="cta-text">Tell us about your amazon business</p>
+                    </div>
+                    <div class="column-1-2">
+                        <div class="rowpad-54">
+                            <a class="red-full-button" href="{{ "/contact/" | relative_url }}">Contact Us &rarr;</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div class="wrapper">
+                <div class="row">
+                    <div class="column-2-3">
+                        <div class="rowpad-16">
+                            <img class="logo" src="{{ "/assets/images/logo-png.png" | relative_url }}" />
+                        </div>
+                        <nav class="nav-footer">
+                            <ul>
+                            {% for item in site.data.nav %}
+                                <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title | escape }}</a></li>
+                            {% endfor %}
+                            </ul>
+                        </nav>
+                        <div class="rowpad-16">
+                            {{ site.address }}
+                            <p><a href="">Privacy, Cookies & Data Policy</a>. Copyright 2018. All rights reserved. </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    {% include scripts.html %}

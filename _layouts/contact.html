@@ -1,0 +1,81 @@
+---
+layout: default
+---
+<section class="hero-container">
+    {% include site-header.html %}
+    <div class="hero">
+        <div class="wrapper">
+            <h1>{{ page.title }}</h1>
+        </div>
+    </div>
+</section>
+<section class="ourpartners-container">
+    <div class="content-center rowpad-16">
+        {{ content }}
+</section>
+<section class="container">
+        <div class="wrapper">
+            <div class="whoweare-container">
+                <div class="contact-form">
+                    <form method="POST" action="https://formspree.io/jake@jakeatkin.co.uk">
+                        <div class="row">
+                            <div class="column-1-3">
+                                <label for="name">Your full name<strong class="highlight-green">*</strong></label>
+                            </div>
+                            <div class="column-2-3">
+                                <input type="text" name="Name" placeholder="Your full name" id="Name" required>
+                            </div>
+                        </div><!-- .row -->
+                        <div class="row">
+                            <div class="column-1-3">
+                                <label for="company">Brand / Company<strong class="highlight-green">*</strong></label>
+                            </div>
+                            <div class="column-2-3">
+                                <input type="text" name="Company" placeholder="Brand or Company name" id="Company" required>
+                            </div>
+                        </div><!-- .row -->
+                        <div class="row">
+                            <div class="column-1-3">
+                                <label for="website">Website<strong class="highlight-green">*</strong></label>
+                            </div>
+                            <div class="column-2-3">
+                                <input type="text" name="Website" placeholder="Your website e.g. www.google.com" id="Website" required>
+                            </div>
+                        </div><!-- .row -->
+                        <div class="row">
+                            <div class="column-1-3">
+                                <label for="email">Email<strong class="highlight-green">*</strong></label>
+                            </div>
+                            <div class="column-2-3">
+                                <input type="email" name="Email" placeholder="Your email" id="Email" required>
+                            </div>
+                        </div><!-- .row -->
+                        <div class="row">
+                            <div class="column-1-3">
+                                <label for="Tel">Phone number</label>
+                            </div>
+                            <div class="column-2-3">
+                                <input type="text" name="Tel" placeholder="Your phone number" id="Tel">
+                            </div>
+                        </div><!-- .row -->
+                        <div class="row">
+                            <div class="column-1-3">
+                                <label for="Message">Your message <strong class="highlight-green">*</strong></label>
+                            </div>
+                            <div class="column-2-3">
+                                <textarea name="Message" placeholder="How can we help you?" id="Message" required></textarea>
+                            </div>
+                        </div><!-- .row -->
+                        <div class="row">
+                            <div class="column-1-3">
+                                <label for="submit">All done?</label>
+                            </div>
+                            <div class="column-2-3">
+                                <button type="submit" name="submit" value="Send Message" class="submit-button">Tell us about your amazon business &rarr;</button>
+                            </div>
+                        </div><!-- .row -->
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>

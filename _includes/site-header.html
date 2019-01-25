@@ -1,0 +1,12 @@
+<header class="header clearfix">
+    <div class="wrapper">
+        <div class="logo-container"><a href="/"><img class="logo" src="{{ "assets/images/logo-png.png" | relative_url }}" /></a></div>
+            <nav class="nav-global">
+            <ul>
+            {% for item in site.data.nav %}
+                <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title | escape }}</a></li>
+            {% endfor %}
+            </ul>
+        </nav>
+    </div>
+</header>
