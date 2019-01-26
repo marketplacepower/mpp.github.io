@@ -8,6 +8,7 @@ collections:
   tag:
     title: Tag
     output: true
+    permalink: "/tag/"
   uploads:
     title: Uploads
     output: true
