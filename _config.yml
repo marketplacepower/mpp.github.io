@@ -5,6 +5,10 @@ collections:
   posts:
     title: Posts
     output: true
+  tag:
+    title: Tag
+    output: true
+    permalink: "/tag/"
   uploads:
     title: Uploads
     output: true
