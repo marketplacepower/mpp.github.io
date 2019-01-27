@@ -1,5 +1,5 @@
 ---
-title: Maximise your <br>Amazon business
+title: Maximise your Amazon business
 layout: home
 ---
 
