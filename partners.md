@@ -1,6 +1,7 @@
 ---
 title: Our Partners
 permalink: "/partners/"
+position: 5
 layout: partners
 ---
 
