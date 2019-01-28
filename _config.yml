@@ -22,7 +22,7 @@ description: MarketplacePower shares insight from vast  experience within Amazon
 baseurl: 
 url: http://marketplacepower.agency
 twitter_username: 
-github_username: 
+github_username: marketplacepower
 excerpt_separator: "<!--more-->"
 markdown: kramdown
 theme: minima
