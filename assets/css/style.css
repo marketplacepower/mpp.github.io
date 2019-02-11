@@ -63,7 +63,7 @@ a:visited {
     }
 }
 .logo {
-    max-height: 30px;
+    max-height: 75px;
 }
 .logo-container {
     max-width: 30%;
@@ -73,6 +73,7 @@ a:visited {
 .nav-global {
     max-width: 70%;
     float: right;
+    padding: 25px 0;
 }
 .nav-global ul {
     padding: 0px;
@@ -111,6 +112,7 @@ a:visited {
         float: left;
         clear: both;
         margin-top: 10px;
+        padding: 0;
     }
     .nav-global ul li {
         padding-left: 0;

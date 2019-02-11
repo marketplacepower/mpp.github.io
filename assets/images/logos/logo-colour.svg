@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="268px" height="136px" viewBox="0 0 268 136" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo-Colour</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Final-Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo-Colour">
+            <rect id="Rectangle" fill="#51989C" fill-rule="nonzero" x="0" y="0" width="268" height="68"></rect>
+            <rect id="Rectangle-Copy" fill="#DADADA" fill-rule="nonzero" x="76" y="68" width="192" height="68"></rect>
+            <text id="POWER" font-family="CorpusCare" font-size="66.2" font-weight="normal" line-spacing="49.2000008" letter-spacing="-0.9457145" fill="#51989C">
+                <tspan x="88.6665725" y="126">POWER </tspan>
+            </text>
+            <text id="MARKETPLACE" font-family="CorpusCare" font-size="66.2" font-weight="normal" line-spacing="49.2000008" letter-spacing="-0.9457145">
+                <tspan x="9.7142595" y="60" fill="#FFFFFF">MARKETPLACE</tspan>
+                <tspan x="261" y="60" letter-spacing="-1.113991" fill="#51989C"></tspan>
+            </text>
+            <g id="PowerIcon" transform="translate(224.000000, 78.000000)" fill="#51989C" fill-rule="nonzero">
+                <path d="M11.6422764,6 L11.6422764,11.9717686 C7.80628974,14.0243902 5.17886179,18.2123686 5.17886179,23.0450591 C5.17886179,29.9039542 10.4713656,35.4641873 17,35.4641873 C23.5286344,35.4641873 28.8211382,29.9039542 28.8211382,23.0450591 C28.8211382,18.2603175 26.2455891,14.107558 22.4715447,12.0334948 L22.4715447,6.04036466 C29.1760272,8.44606925 34,15.1505695 34,23.0450591 C34,32.9612991 26.3888407,41 17,41 C7.61115925,41 0,32.9612991 0,23.0450591 C0,15.1059654 4.87863801,8.37034599 11.6422764,6 Z" id="Combined-Shape"></path>
+                <path d="M20,3 L20,21 C20,22.6568542 18.6568542,24 17,24 L17,24 C15.3431458,24 14,22.6568542 14,21 L14,3 C14,1.34314575 15.3431458,-1.01453063e-16 17,0 L17,0 C18.6568542,1.01453063e-16 20,1.34314575 20,3 Z" id="Combined-Shape-Copy-9"></path>
+            </g>
+        </g>
+    </g>
+</svg>
