@@ -1,7 +1,6 @@
 ---
 title: Welcome to Jekyll!
 date: 2019-01-25 09:18:00 Z
-published: false
 tags:
 - Update
 layout: post
