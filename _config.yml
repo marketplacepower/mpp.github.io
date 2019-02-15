@@ -29,6 +29,6 @@ exclude:
 - Gemfile
 - Gemfile.lock
 future: true
-paginate: 5
+paginate: 1
 paginate_path: "/news/page:num"
 permalink: "/news/:year/:title/"
