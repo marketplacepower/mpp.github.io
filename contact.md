@@ -5,4 +5,4 @@ position: 4
 layout: contact
 ---
 
-## Get in touch
+## Get in touch today
