@@ -1,6 +1,6 @@
 ---
-title: Introducing the postman of the future.
-date: 2019-02-17 12:13:00 Z
+title: Introducing the postman of the future
+date: 2019-02-17 09:26:00 Z
 tags:
 - Update
 ---
