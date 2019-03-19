@@ -337,6 +337,9 @@ a.red-full-button:hover {
 img {
     display: block;
 }
+p img {
+    max-width: 100%;
+}
 .img-center {
     margin: 0 auto;
     text-align: center;
