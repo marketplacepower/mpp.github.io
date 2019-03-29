@@ -3,7 +3,8 @@
     {% include head.html %}
     <body>
         {{ content }}
-        {% include site-carousel.html %}
         {% include footer.html %}
     </body>
+    <script src="{{ "/assets/js/flickity.pkgd.min.js" | relative_url }}"></script> 
+    <script src="{{ "/assets/js/carousel.js" | relative_url }}"></script>
 </html>
